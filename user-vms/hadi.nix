@@ -1,4 +1,5 @@
 {
+  github = "hadi-afnan";
   tier = "small";
   enabled = true;
   keys = [
